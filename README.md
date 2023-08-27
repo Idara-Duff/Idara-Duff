@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Idara-Duff
-- 👀 I’m interested in web base and mobile app developement
+- 👀 I’m interested in web and mobile app developement
 - 🌱 I’m currently learning web developement
 - 💞️ I’m looking to collaborate on Kotlin, Webservice, Android developement
 - 📫 How to reach me id4duf@gmaill.com, +2348067082155
